@@ -3,7 +3,9 @@
 ## Overview
 
 This Discord bot is designed to help protect users from scams by monitoring messages and checking for potentially harmful links.
-![try](https://gyazo.com/e5a5b410baee4ac9b26d191d77ed41ac)
+https://github.com/zenozense/Antiscam-Bot/assets/53638571/eb797b10-532a-4ce1-ab0a-477391e899b7
+
+
 
 ## Features
 
