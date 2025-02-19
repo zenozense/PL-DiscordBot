@@ -1,10 +1,10 @@
-# Anti-Scam Discord Bot
+# Phishing Link Discord Bot
 
 ## Overview
 
 This Discord bot is designed to help protect users from scams by monitoring messages and checking for potentially harmful links.
 
-https://github.com/zenozense/Antiscam-Bot/assets/53638571/df3affb2-6f58-4010-b57a-25c20e687b9f
+https://github.com/zenozense/PL-DiscordBot
 
 
 
